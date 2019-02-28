@@ -5,7 +5,7 @@
 <title>Greytvbeats.com</title>
     <!-- Colors and text placement -->
 <style>
-.coolshit {
+.textcolor {
            background-color: black;
            color: #ff1d00;
            padding: 15px;
@@ -16,20 +16,19 @@ body {background-color: #383737;}
 </style>
 </head>
 <body>
-<h1 class="coolshit"><center>GREY BEATS</center></h1>
+<h1 class="textcolor"><center>GREY BEATS</center></h1>
     <br>
     <br>
     <br>
-    <h2 class="coolshit">SAMPLES</h2>
+    <h2 class="textcolor">SAMPLES</h2>
     <br>
     <audio controls src="bensound-anewbeginning.mp3"></audio>
     <br>
     <br>
     <br>
     <br>
-    <h2 class="coolshit">Other Things</h2>
+    <h2 class="textcolor">Other Things</h2>
                 <!-- CHANGE THIS!!!! -->
-    <a href=“file:///home/chronos/u-0d8a613989ea53b1b0af3ce4c1e94762a96f809f/Downloads/Contact%20page.html”>Contacts</a>
     <br>
     <br>
     <br>
