@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Greytvbeats.com</title>
+    <!-- Colors and text placement -->
+<style>
+.coolshit {
+           background-color: black;
+           color: #ff1d00;
+           padding: 15px;
+    }
+div.a {text-align: center;}
+body {background-color: #383737;}
+    body {color: #ff1d00;}
+</style>
+</head>
+<body>
+<h1 class="coolshit"><center>GREY BEATS</center></h1>
+    <br>
+    <br>
+    <br>
+    <h2 class="coolshit">SAMPLES</h2>
+    <br>
+    <audio controls src="bensound-anewbeginning.mp3"></audio>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 class="coolshit">Other Things</h2>
+                <!-- CHANGE THIS!!!! -->
+    <a href=“file:///home/chronos/u-0d8a613989ea53b1b0af3ce4c1e94762a96f809f/Downloads/Contact%20page.html”>Contacts</a>
+    <br>
+    <br>
+    <br>
+    <h4>Samples By:</h4>
+    <a href="https://www.bensound.com/royalty-free-music">bensound.com</a>
+</body>
+</html>
